@@ -1,0 +1,14 @@
+{
+  "name": "real-girl-feel-ai",
+  "version": "3.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "openai": "^4.0.0",
+    "dotenv": "^16.0.0",
+    "node-telegram-bot-api": "^0.61.0",
+    "better-sqlite3": "^9.4.0"
+  }
+}
